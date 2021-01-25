@@ -10,4 +10,4 @@ In a nutshell, this is a personal notebook/portfolio. Everything finalized and p
 Don't be a stranger and feel free to reach out to me at [@azaleakamellia](https://twitter.com/azaleakamellia) if you have any questions or recommendations of tutorials, spatial data analysis or cartographical output you'd think I could try out.
 
 #### Upcoming project :pushpin:
-1. Code for finding topological errors within a polygonal shapefile.
+1. Exploratory analysis and visualization of spatial data (ESDA)
