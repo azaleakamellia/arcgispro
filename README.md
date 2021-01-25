@@ -10,4 +10,6 @@ In a nutshell, this is a personal notebook/portfolio. Everything finalized and p
 Don't be a stranger and feel free to reach out to me at [@azaleakamellia](https://twitter.com/azaleakamellia) if you have any questions or recommendations of tutorials, spatial data analysis or cartographical output you'd think I could try out.
 
 #### Upcoming project :pushpin:
-1. Exploratory analysis and visualization of spatial data (ESDA)
+1. **Exploratory Spatial Data Analysis**
+  - Exploratory data analysis on spatial data: What are there, what is it for...in what aspect?
+  - Data visualization: What package, the best visualization for certain purposes
