@@ -12,4 +12,4 @@ Don't be a stranger and feel free to reach out to me at [@azaleakamellia](https:
 #### Current package and methodologies being explored :pushpin:
   - [`rasterio`]('https://rasterio.readthedocs.io/en/latest/index.html')
   - [`numpy`]('https://numpy.org/')
-  - ['Linear algebra on n-dimensional arrays']('https://numpy.org/numpy-tutorials/content/tutorial-svd.html')
+  - [Linear algebra on n-dimensional arrays]('https://numpy.org/numpy-tutorials/content/tutorial-svd.html')
