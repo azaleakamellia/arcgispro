@@ -10,6 +10,7 @@ In a nutshell, this is a personal notebook/portfolio. Everything finalized and p
 Don't be a stranger and feel free to reach out to me at [@azaleakamellia](https://twitter.com/azaleakamellia) if you have any questions or recommendations of tutorials, spatial data analysis or cartographical output you'd think I could try out.
 
 #### Current package and methodologies being explored :pushpin:
-  - [`rasterio`]('https://rasterio.readthedocs.io/en/latest/index.html')
-  - [`numpy`]('https://numpy.org/')
-  - [Linear algebra on n-dimensional arrays]('https://numpy.org/numpy-tutorials/content/tutorial-svd.html')
+  - [`rasterio`](https://rasterio.readthedocs.io/en/latest/index.html)
+  - [`numpy`](https://numpy.org/)
+  - [Linear algebra on n-dimensional arrays](https://numpy.org/numpy-tutorials/content/tutorial-svd.html)
+  - [Land Cover Classification of Satellite Imagery using Python by Syam Kakarla](https://towardsdatascience.com/land-cover-classification-in-satellite-imagery-using-python-ae39dbf2929)
