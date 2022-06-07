@@ -10,9 +10,9 @@ Before you attempt to proceed, please ensure that you have fulfill the machine s
 
 Here are the important steps to take note:
 
-1) Installation
-2) Model training
-3) Model inferencing
+1. Installation
+2. Model training
+3. Model inferencing
 
 --------------------------
 ## 1️⃣ Installation
@@ -67,6 +67,7 @@ The data needed are:
 1. Ensure that the features you are trying to classify are enhanced during your image processing stage; NDVI, NDBI, NDWI etc., and the image itself is factored properly. You can find compilation of interesting spectral indices and band combinations at [Awesome Spectral Indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices).
 
 2. In the case where the shapefile containing the land classes or land uses are not available, you can proceed to start labeling objects in the image that you have processed based on the classes you have created using **Label Objects for Deep Learning** tool. This is a common remote sensing procedure that is time-consuming. 
+
 3. Please refer to the following link for more information: 
     > 🔗 [Label objects for deep learning](https://pro.arcgis.com/en/pro-app/2.8/help/analysis/image-analyst/label-objects-for-deep-learning.htm)
 
