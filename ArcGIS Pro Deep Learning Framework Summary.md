@@ -78,6 +78,8 @@ The data needed are:
 
 
 <br />
+
+
 ## 3️⃣ Training a model
 Once the data has been exported, you can proceed to train the deep learning model. This is the part where you will find various deep learning models that you would want to use. In this exercise, we are interested in pixel classification or semantic segmentation. Some of the models are such as the infamoust UNet and DeepNet. The tool you need to use is the **Train Deep Learning Model** geoprocessing tool. Please refer to the following link for more information:
 
